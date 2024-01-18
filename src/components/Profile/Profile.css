@@ -1,0 +1,16 @@
+.postdiv{
+    background-color: rgba(227, 220, 220,0.6);
+    margin-left: 5%;
+    width: 90%;
+    padding: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 100%;
+}
+
+.post{
+    margin-top: 5%;
+}
+
